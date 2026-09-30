@@ -1,0 +1,140 @@
+ga_class,organisation_name,suburb,latitude,longitude,nhsd_service_type,operationalstatus
+GP,Nganampa Health Council - Alice Springs Admin Office,Ciccone,-23.70069,133.87074,Aboriginal and Torres Strait Islander health service,active
+GP,Ali Curung Primary Health Centre,Ali Curung,-21.00346,134.40529,General practice service,active
+GP,Bauhinia Health,Katherine,-14.46259,132.26129,General practice service,active
+GP,Katherine Community Health Centre,Katherine,-14.46416,132.26414,"Maternal, child and family health service",active
+GP,Papunya Community Health Centre,Papunya,-23.20439,131.90886,Nurse led clinic,active
+GP,Wilora Community Health Centre,Wilora,-21.74206,133.72978,Aboriginal and Torres Strait Islander health service,active
+GP,Sunrise Health Barunga Clinic,Katherine,-14.52240,132.86499,Aboriginal and Torres Strait Islander health service,active
+GP,Angurugu Primary Health Centre,Angurugu,-13.98147,136.46141,"Maternal, child and family health service",active
+GP,Milyakburra (Bickerton Island) Health Centre,Milyakburra,-13.77747,136.19786,"Maternal, child and family health service",active
+GP,Congress Social & Emotional Wellbeing - Sewb,Alice Springs,-23.70035,133.88368,General practice service,active
+GP,Gap Road Clinic,The Gap,-23.71124,133.87698,Aboriginal and Torres Strait Islander health service,active
+GP,Ngukurr Health Centre,Katherine,-14.73385,134.73209,Aboriginal and Torres Strait Islander health service,active
+GP,Peppimenarti Health Centre,Peppimenarti,-14.15217,130.08083,Aboriginal and Torres Strait Islander health service,active
+GP,Watarrka Health Centre,Petermann,-24.24339,131.51037,General practice service,active
+GP,Danila Dilba - Palmerston Clinic,Palmerston City,-12.48200,130.98664,Aboriginal and Torres Strait Islander health service,active
+GP,Wurli Wurlinjang Health Service,Katherine,-14.46079,132.26491,"Maternal, child and family health service",active
+GP,Canteen Creek Health Centre,Canteen Creek,-20.64016,135.58765,Nurse led clinic,active
+GP,Wugularr Health Centre,Katherine,-14.55499,133.11395,Aboriginal and Torres Strait Islander health service,active
+GP,Borroloola Community Health Centre,Borroloola,-16.05467,136.30533,General practice service,active
+GP,Territory Medical Group Mitchell,Darwin City,-12.46399,130.84015,"Maternal, child and family health service",active
+GP,Umbakumba Primary Health Centre,Umbakumba,-13.86506,136.81303,Aboriginal and Torres Strait Islander health service,active
+GP,Primary Health Care Urban - Palmerston Community Care Centre,Farrar,-12.47957,130.98911,Aboriginal and Torres Strait Islander health service,active
+GP,Kalkaringi Primary Health Centre,Kalkarindji,-17.44543,130.83109,"Maternal, child and family health service",active
+GP,Atitjere (Hearts Range) Community Health Centre,Atitjere,-22.97395,134.92960,Nurse led clinic,active
+GP,Bulman Health Centre,Bulman Weemol,-13.66538,134.33221,Aboriginal and Torres Strait Islander health service,active
+GP,Territory Medical Pty Ltd T/a Territory Medical Group,Coconut Grove,-12.39015,130.85110,"Maternal, child and family health service",active
+GP,Milikapiti Community Health Centre,Milikapiti,-11.42297,130.67422,Aboriginal and Torres Strait Islander health service,active
+GP,Danila Dilba - Knuckey Street Clinic,Darwin City,-12.46059,130.84439,Aboriginal and Torres Strait Islander health service,active
+GP,Northside Health Nt,Coconut Grove,-12.40074,130.85187,General practice service,active
+GP,Gunyangara Health Centre,Gunyangara,-12.22089,136.70351,"Maternal, child and family health service",active
+GP,Miwatj Health Aboriginal Corporation - Yirrkala,Yirrkala,-12.25042,136.89331,"Maternal, child and family health service",active
+GP,Titjikala Community Health Centre,Titjikala,-24.67497,134.07928,"Maternal, child and family health service",active
+GP,Manyallaluk Health Centre,Katherine,-14.52235,132.86496,Aboriginal and Torres Strait Islander health service,active
+GP,Timber Creek Health Centre,Timber Creek,-15.64496,130.46765,"Maternal, child and family health service",active
+GP,Tara Community Health Centre,Tara,-21.51336,133.99022,Nurse led clinic,active
+GP,Palumpa Community Health Centre,Nganmarriyanga,-14.34812,129.88007,Aboriginal and Torres Strait Islander health service,active
+GP,Nauiyu Community Health Centre,Nauiyu,-13.75035,130.68802,General practice service,active
+GP,Yarralin Primary Health Centre,Yarralin,-16.44884,130.88225,"Maternal, child and family health service",active
+GP,Numbulwar Primary Health Centre,Numbulwar,-14.27623,135.74025,General practice service,active
+GP,Pine Creek Community Health Centre,Pine Creek,-13.82253,131.83026,Aboriginal and Torres Strait Islander health service,active
+GP,Ampilatwatja Health Centre,Ampilatwatja,-21.65908,135.22558,Aboriginal and Torres Strait Islander health service,active
+GP,Pigeon Hole (Nitjpurru) Community Health Centre,Pigeon Hole,-16.83543,131.22784,"Maternal, child and family health service",active
+GP,Nganampa Health Council - Umuwa Office,Alice Springs,-23.69711,133.87773,Aboriginal and Torres Strait Islander health service,active
+GP,Galiwin'ku Health Centre,Galiwinku,-12.02007,135.56804,"Maternal, child and family health service",active
+GP,Belyuen Community Health Centre,Belyuen,-12.54868,130.69365,General practice service,active
+GP,Mutitjulu Health Service,Mutitjulu,-22.99884,136.05418,Aboriginal and Torres Strait Islander health service,active
+GP,Alyangula Primary Health Centre,Alyangula,-13.84941,136.42087,"Maternal, child and family health service",active
+GP,Coolalinga Medical Centre,Coolalinga,-12.52490,131.04240,General practice service,active
+GP,Top End Medical Centre - Casuarina,Casuarina,-12.37594,130.88445,General practice service,active
+GP,Wadeye Community Health Centre,Wadeye,-14.23891,129.52188,Nurse led clinic,active
+GP,Ikuntji Health Clinic,Haasts Bluff,-23.44700,131.88200,General practice service,active
+GP,Tiwi Medical Clinic,Tiwi,-12.36263,130.87370,General practice service,active
+GP,Amunturrngu (Mt Liebig) Community Health Centre,Mount Liebig,-23.26628,131.27396,Nurse led clinic,active
+GP,Danila Dilba  - Malak Clinic,Malak,-12.39599,130.90393,General practice service,active
+GP,Ngukurr Health Centre,Ngukurr,-14.73386,134.73222,General practice service,active
+GP,Red Lily Health Service,Minjilang,-11.14736,132.57662,Aboriginal and Torres Strait Islander health service,active
+GP,Central Clinic - Alice Springs,Alice Springs,-23.70021,133.87978,General practice service,active
+GP,Joint Defence Facility - Pine Gap Medical Clinic (Jdfpg),Alice Springs,-23.69539,133.87634,General practice service,active
+GP,Anyinginyi Health Aboriginal Corporation,Tennant Creek,-19.64288,134.18949,Aboriginal and Torres Strait Islander health service,active
+GP,Elliott Community Health Centre,Elliott,-17.55366,133.54033,Aboriginal and Torres Strait Islander health service,active
+GP,Top End Medical Centre - Stuart Park,Stuart Park,-12.44685,130.84169,General practice service,active
+GP,Sadadeen Clinic,Sadadeen,-23.70037,133.90002,Aboriginal and Torres Strait Islander health service,active
+GP,Alukura Women's Health Clinic,Kilgariff,-23.75018,133.87273,Aboriginal and Torres Strait Islander health service,active
+GP,Alpurrurulam (Lake Nash) Community Health Centre,Alpurrurulam,-20.98506,137.84835,Nurse led clinic,active
+GP,Imanpa Community Health Centre,Imanpa,-25.12758,132.57056,"Maternal, child and family health service",active
+GP,Gunbalanya Community Health Centre,Gunbalanya,-12.32554,133.05503,Aboriginal and Torres Strait Islander health service,active
+GP,Yuendumu Community Health Centre,Yuendumu,-22.25169,131.75970,General practice service,active
+GP,Karama Medical Centre,Karama,-12.40097,130.91699,General practice service,active
+GP,Greenhouse Medical Practice Coolalinga,Coolalinga,-12.52217,131.04366,General practice service,active
+GP,Top End Medical Centre - Rosebery,Rosebery,-12.50865,130.98990,General practice service,active
+GP,Willowra Health Centre,Willowra,-21.24729,132.60952,Nurse led clinic,active
+GP,Vmg Clinics,Stuart Park,-12.44867,130.84059,General practice service,active
+GP,Kaltukatjara (Docker River) Community Health Centre,Kaltukatjara,-24.87350,129.08067,Nurse led clinic,active
+GP,Moil Physiotherapy/ Restore Health Darwin,Moil,-12.38653,130.88630,General practice service,active
+GP,Breastscreen Nt,Casuarina,-12.37253,130.88232,Community cancer service,active
+GP,Bath Street Family Medical Centre,Alice Springs,-23.70195,133.87894,General practice service,active
+GP,Berrimah Family Practice,Berrimah,-12.43212,130.92280,General practice service,active
+GP,Pandanus Medical Nt,Millner,-12.39135,130.85742,General practice service,active
+GP,Remote Territory Healthcare,Berry Springs,-12.70268,131.01435,Nurse practitioner led clinic,active
+GP,Cavenagh Medical Centre,Darwin City,-12.45977,130.84273,General practice service,active
+GP,Danila Dilba Health Service Humpty Doo Clinic,Humpty Doo,-12.57329,131.10047,Aboriginal and Torres Strait Islander health service,active
+GP,Ti Tree Community Health Centre,Ti Tree,-22.12908,133.41894,General practice service,active
+GP,Engawala Community Health Centre,Engawala,-22.80223,134.45461,Aboriginal and Torres Strait Islander health service,active
+GP,Howard Springs Medical Centre,Howard Springs,-12.49674,131.04392,General practice service,active
+GP,Primary Health Care - Top End,Casuarina,-12.37534,130.88367,Aboriginal and Torres Strait Islander health service,active
+GP,Carepoint Medical Centre Darwin,Casuarina,-12.37207,130.88361,General practice service,active
+GP,Katherine Family Medical Practice,Katherine South,-14.46441,132.26136,General practice service,active
+GP,Adelaide River Community Health Centre,Adelaide River,-13.23661,131.10423,General practice service,active
+GP,Leanyer Medical Clinic,Leanyer,-12.37690,130.89534,General practice service,active
+GP,Danila Dilba - Bagot Clinic,Ludmilla,-12.41554,130.85437,General practice service,active
+GP,Arafura Medical - Zuccoli,Zuccoli,-12.50590,131.00866,General practice service,active
+GP,Purple House Primary Health Care,Braitling,-23.68606,133.87362,General practice service,active
+GP,Sonic Health Plus Darwin Cbd,Darwin City,-12.46464,130.84387,General practice service,active
+GP,Robinson River Community Health Centre,Robinson River,-16.75853,136.98277,Nurse led clinic,active
+GP,Jabiru Health Centre,Jabiru,-12.67277,132.83523,Aboriginal and Torres Strait Islander health service,active
+GP,Ngalkanbuy Wellbeing Centre,Galiwinku,-12.02580,135.56326,Nurse led clinic,active
+GP,Pirlangimpi Health Centre,Pirlangimpi,-11.40658,130.41753,Aboriginal and Torres Strait Islander health service,active
+GP,Ntaria Health Clinic (Central Australia Health Service),Hermannsburg,-23.94374,132.77531,Aboriginal and Torres Strait Islander health service,active
+GP,Bonya Community Health Centre,Anatye,-22.78378,136.15845,General practice service,active
+GP,Gapuwiyak Community Health Centre,Gapuwiyak,-12.50242,135.80511,Aboriginal and Torres Strait Islander health service,active
+GP,Aputula (Finke) Community Health Centre,Finke,-25.58160,134.57770,Aboriginal and Torres Strait Islander health service,active
+GP,Katherine West Health Board,Katherine,-14.46224,132.26100,Aboriginal and Torres Strait Islander health service,active
+GP,Humpty Doo Surgery,Humpty Doo,-12.57499,131.10109,General practice service,active
+GP,Fannie Bay Medical Centre,Fannie Bay,-12.42351,130.83650,General practice service,active
+GP,Malmaldharra Health Centre,Milingimbi,-12.10624,134.92207,Nurse led clinic,active
+GP,Nyirripi Health Centre,Nyirripi,-22.64995,130.55319,General practice service,active
+GP,Elliot Health Clinic,Elliott,-17.55397,133.54099,General practice service,active
+GP,Iwantja Clinic,Alice Springs,-23.69814,133.87823,Aboriginal and Torres Strait Islander health service,active
+GP,Larapinta Clinic,Araluen,-23.70417,133.85388,General practice service,active
+GP,Mall Medical Centre - Alice Springs,Alice Springs,-23.70241,133.88031,General practice service,active
+GP,Arafura Medical Clinics- Freds Pass,Humpty Doo,-12.57431,131.10103,General practice service,active
+GP,Beswick Community Health Centre,Beswick,-14.55492,133.11336,General practice service,active
+GP,Moil Medical Centre,Moil,-12.39039,130.88274,General practice service,active
+GP,Danila Dilba - Rapid Creek Clinic,Millner,-12.38651,130.86116,Aboriginal and Torres Strait Islander health service,active
+GP,Woodycupaldiya Community Health Centre,Nemarluk,-13.85860,130.00197,General practice service,active
+GP,Tennant Creek Hospital General Practice,Tennant Creek,-19.64794,134.18697,General practice service,active
+GP,Medcentral Gp Clinic,Casuarina,-12.37152,130.88241,General practice service,active
+GP,Top End Medical Centre - Gateway,Yarrawonga,-12.47020,130.98216,General practice service,active
+GP,Palmerston Gp Super Clinic,Farrar,-12.47933,130.98991,General practice service,active
+GP,Binjari Community Health Centre,Binjari,-14.55256,132.18112,General practice service,active
+GP,Epenarra Health Centre,Wutunugurra,-20.46334,135.25026,Aboriginal and Torres Strait Islander health service,active
+GP,Amoonguna Health Service,Amoonguna,-23.75832,133.93512,General practice service,active
+GP,Ramingining Community Health Centre - Milbrim Road,Ramingining,-12.32875,134.92891,Nurse led clinic,active
+GP,Red Lily Health Board,Warruwi,-11.64736,133.39000,General practice service,active
+GP,Headspace Alice Springs,Alice Springs,-23.70129,133.88162,General practice service,active
+GP,Palmerston Medical Clinic,Palmerston City,-12.48174,130.98747,General practice service,active
+GP,Mala'la Primary Health Care Centre,Maningrida,-12.05190,134.22152,Aboriginal and Torres Strait Islander health service,active
+GP,Minyerri Health Centre,Katherine,-15.22318,134.08177,Aboriginal and Torres Strait Islander health service,active
+Hospital,Tkc Production,Darwin City,-12.46067,130.83784,Hospital service,active
+Hospital,Alice Springs Hospital - General Medical Clinic,The Gap,-23.70566,133.87802,Hospital general medicine service,active
+Hospital,Royal Darwin Hospital - Medical Clinic,Tiwi,-12.35590,130.88293,Hospital general medicine service,active
+Hospital,Darwin Private Hospital,Tiwi,-12.35731,130.88199,Hospital service,active
+Hospital,Palmerston Regional Hospital - Emergency Department,Holtze,-12.47585,131.00403,Emergency department service,active
+Hospital,Katherine Hospital - Emergency Department,Katherine,-14.43918,132.27199,Emergency department service,active
+Hospital,Imanpa Community Health Centre,Imanpa,-25.12758,132.57056,Emergency department service,active
+Hospital,Tennant Creek Hospital - Emergency Department,Tennant Creek,-19.64806,134.18689,Emergency department service,active
+Hospital,Katherine Hospital - General Medical Clinic,Katherine,-14.43918,132.27213,Hospital general medicine service,active
+Hospital,Gove District Hospital,Nhulunbuy,-12.18639,136.77795,Hospital service,active
+Hospital,Alice Springs Hospital - Emergency Department,The Gap,-23.70566,133.87802,Emergency department service,active
