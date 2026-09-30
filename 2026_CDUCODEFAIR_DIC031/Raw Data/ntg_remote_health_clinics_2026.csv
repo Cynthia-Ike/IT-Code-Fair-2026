@@ -1,0 +1,89 @@
+region,location,phone,emergency_24_7,opening_hours,operator
+Top End,Adelaide River,08 8976 7027,Y,9am to 5pm,NTHealth
+Top End,Batchelor,08 8976 0011,Y,9am to 5pm,NT Health
+Top End,Belyuen,08 8978 5023,Y,9am to 5pm,NT Health
+Top End,Gunbalanya (Oenpelli),08 8979 0178,N,"Monday to Wednesday 8:30am to 12:00pm, 1:00pm to 4:00pmThursday 1:00pm to 4:00pmFriday 8:30am to 12:00pm, 1:00pm to 4:00pm",Red Lily Health Board Aboriginal Corporation
+Top End,Jabiru,08 8979 900,Y,9am to 5pm,Red Lily Health Board
+Top End,Maningrida,08 8979 5930,Y,9am to 5pm,Mala'la Health Service Aboriginal Corporation
+Top End,Milikapiti,08 8978 3950,Y,9am to 5pm,NT Health
+Top End,Minjilang,08 8979 0229,Y,9am to 5pm,Red Lily Health Board
+Top End,Nauiyu Nambiyu (Daly River),08 8978 2435,Y,9am to 5pm,NT Health
+Top End,Palumpa,08 8978 2359,Y,9am to 5pm,NT Health
+Top End,Peppimenarti,08 8978 1066,Y,9am to 4:30pm,NT Health
+Top End,Pirlangimpi,08 8978 3953,Y,9am to 5pm,NT Health
+Top End,Wadeye (Port Keats),08 8978 2360,Y,9am to 5pm,NT Health
+Top End,Warruwi,08 8979 0500,Y,9am to 5pm,Red Lily Health Board
+Top End,Woodyculpaldiya,08 8978 22435,N,9am to 12pm1pm to 4pm,NT Health
+Top End,Wurrumiyanga (Nguiu),08 8978 3984,Y,9am to 5pm,NT Health
+East Arnhem,Alyangula,08 8987 6255,Y,9am to 5pm,NT Health
+East Arnhem,Angurugu,08 8987 6311,Y,9am to 5pm,NT Health
+East Arnhem,Milyakburra (Bickerton Island),08 8987 7054,Y,9am to 5pm,NT Health
+East Arnhem,Galiwin'ku (Elcho Island),08 8970 5800,N,8am to 12pm1pm to 4:30pm,Miwatj Health Aboriginal Corporation
+East Arnhem,Galiwin'ku (Elcho Island)Homelands,08 8970 5568,N,,Marthakal Homelands Health Service
+East Arnhem,Gapuwiyak,08 8987 9150,Y,9am to 5pm,Miwatj Health Aboriginal Corporation
+East Arnhem,Gunyangara,08 8987 3800,N,8:30am to 4:30pm,Miwatj Health Aboriginal Corporation
+East Arnhem,Laynhapuy Homelands,08 8939 1800,N,,Laynhapuy Aboriginal Community Controlled Health Services
+East Arnhem,Nhulunbuy Urban,08 8939 1900,N,8:30am to 4:30pm,Miwatj Health Aboriginal Corporation
+East Arnhem,Ramingining,08 8979 7923,N,"Monday, Tuesday, Thursday and Friday 8am to 4:30pmWednesday 8am to 12pm",Miwatj Health Aboriginal Corporation
+East Arnhem,Umbakumba,08 8987 6772,N,Monday to Thursday 9am to 4pmFriday 9am to 1pm,NT Health
+East Arnhem,Yirrkala,08 8987 2650,N,Monday to Thursday 8am to 4pmFriday 8am to 12pm,Miwatj Health Aboriginal Corporation
+East Arnhem,Yurrwi (Milingimbi),08 8987 9903,N,"Monday, Tuesday, Thursday and Friday 8am to 4:30pmWednesday 8am 12pm",Miwatj Health Aboriginal Corporation
+Big Rivers,Amanbidji (Kildurk),08 9167 8842,N,Tuesday 10am to 2pm,Katherine West Health Board Aboriginal Corporation
+Big Rivers,Barunga (Bamyili),08 8975 4501,N,8am to 4:30pm,Sunrise Health Service Aboriginal Corporation
+Big Rivers,Binjari,08 8971 0970,N,8:30am to 4pm,Wurli Wurlinjang Health Service
+Big Rivers,Borroloola,08 8975 8757,Y,9am to 5pm,NT Health
+Big Rivers,Bulla,08 9168 7303,N,"Monday, Wednesday and Friday 10am - 2pm",Katherine West Health Board Aboriginal Corporation
+Big Rivers,Daguragu (Wattie Creek),08 8975 0785,N,,Katherine West Health Board Aboriginal Corporation
+Big Rivers,Gulin (Bulman),08 8975 4712,N,8am to 4:30pm,Sunrise Health Service Aboriginal Corporation
+Big Rivers,Jilkminggan (Duck Creek),08 8975 4741,N,8am to 4:30pm,Sunrise Health Service Aboriginal Corporation
+Big Rivers,Kalkaringi (Wave Hill),08 8975 0785,Y,Monday to Thursday 8:30am to 4pmFriday 1pm to 4pm,Katherine West Health Board Aboriginal Corporation
+Big Rivers,Lajamanu (Hooker Creek),08 8975 1500,Y,Monday to Thursday 8:30am to 4pmFriday 1pm to 4pm,Katherine West Health Board Aboriginal Corporation
+Big Rivers,Lingara via Yarralin,08 8975 0893,Y,Monday to Thursday 8:30am to 4pmFriday 1pm to 4pm,Katherine West Health Board Aboriginal Corporation
+Big Rivers,Manyallaluk (Eva Valley),08 8975 4864,Y,9am to 5pm,Sunrise Health Service Aboriginal Corporation
+Big Rivers,Mataranka,08 8975 4547,N,8am to 4:30pm,Sunrise Health Service Aboriginal Corporation
+Big Rivers,Mialuni (Kildurk),08 9167 8842,N,Tuesday 10am to 2pm,Katherine West Health Board Aboriginal Corporation
+Big Rivers,Minyerri (Hodgeson Downs),08 8975 9959,N,,Sunrise Health Service Aboriginal Corporation
+Big Rivers,Ngukurr (Roper River),08 8975 4688,N,8am to 4:30pm,Sunrise Health Service Aboriginal Corporation
+Big Rivers,Numbulwar,08 8975 4670,N,"Monday, Tuesday, Wednesday and Friday 9am to 12pmThursday 1pm to 4pm",NT Health
+Big Rivers,Nitjpurru (Pigeon Hole),08 8975 0910,N,Tuesday 10:30am to 4pmWednesday 8:30am to 4pmThursday 8:30am - 2pm,Katherine West Health Board Aboriginal Corporation
+Big Rivers,Pine Creek,08 8976 1268,N,Tuesday 9am to 3pm,NT Health
+Big Rivers,Robinson River,08 8975 9985,N,8am to 5pm,NT Health
+Big Rivers,Timber Creek,08 8975 0727,Y,Monday to Thursday 8:30am to 4pmFriday 1pm to 4pm,Katherine West Health Board Aboriginal Corporation
+Big Rivers,Urapunga (Rittarangu),08 8975 4345,N,,Sunrise Health Service Aboriginal Corporation
+Big Rivers,Wugularr (Beswick),,N,,Sunrise Health Service Aboriginal Corporation
+Big Rivers,Yarralin,08 8975 0893,Y,Monday to Thursday 8:30am to 4pm Friday 1pm to 4pm,Katherine West Health Board Aboriginal Corporation
+Barkly,Aherrenge (Ampilawatja),08 8956 9942,N,"Monday, Tuesday, Wednesday and Friday 8:30am to 12:30pm, 2:30pm to 5:30pm Thursday 8:30am to 12:30pm",Ampilatwatja Health Centre Aboriginal Corporation
+Barkly,Ali Curung,08 8964 1954,N,Monday to Wednesday 8am to 5pm,NT Health
+Barkly,Alpurrurulam (Lake Nash),07 4748 3111,Y,8am to 5pm,NT Health
+Barkly,Canteen Creek,08 8964 1510,Y,8am to 5pm,NT Health
+Barkly,Elliot,08 8969 2060,Y,8am to 5pm,NT Health
+Barkly,Epenarra (Wutunugurra),08 8964 1559,N,Visiting service,NT Health
+Barkly,Tara(Neutral Junction),08 8956 9789,N,8am to 5pm,NT Health
+Barkly,Tennant Creek Outstations,08 8962 4846,N,8am to 4:30pm,Anyinginyi Health Services Aboriginal Corporation
+Barkly,Tennant Creek Urban,08 8962 2385,N,"Monday, Tuesday, Wednesday and Friday 8:30am to 11:30am, 1pm to 4pmThursday 8:30am to 11:30am",Anyinginyi Health Services Aboriginal Corporation
+Barkly,Urapuntja (Utopia),08 8956 9994,Y,8am to 5pm,Urapuntja Health Service
+Central Australia,Amoonguna,08 8952 9327,N,"Monday, Tuesday, Wednesday and Friday 8am to 4:30pmThursday 8am to 12:30pm",Central Australian Aboriginal Congress / Amoonguna Health Service Board
+Central Australia,Aputula(Finke),08 8956 0961,Y,8am to 5pm,NT Health
+Central Australia,Harts Range (Atitjere),08 8956 9778,Y,8am to 5pm,NT Health
+Central Australia,Bonya,08 8956 6300,Y,Visiting service,NT Health
+Central Australia,Engawala (Alcoota),08 8956 9944,Y,Visiting service,NT Health
+Central Australia,Haasts Bluff (Ikuntji),08 8956 8472,Y,Visiting service,NT Health
+Central Australia,Imanpa(Mt Ebenezer),08 8956 7484,N,Tuesday 10:30am to 5:00pmWednesday 8:30am to 2:00pm,Central Australian Aboriginal Congress / Mpwelarre Health Aboriginal Corporation
+Central Australia,Kaltukatjara (Docker River),08 8960 8600,N,"Monday, Tuesday 8:30am to 5:00pm Wednesday 9:30am to 5:00pmThursday 8:30am to 12:00pmFriday 8:30am to 5:00pm",Central Australian Aboriginal Congress / Mpwelarre Health Aboriginal Corporation
+Central Australia,Kintore,08 8956 8577,N,9am to 12pm2pm to 5pm,Pintupi Homelands Health Service
+Central Australia,Ltyentye Apurte(Santa Teresa),08 8956 0911,N,"Monday, Tuesday, Wednesday and Friday 8:30am to 12pm, 1pm to 5pmThursday 8:30am to 12pm, 3:30pm to 4:30pm",Central Australian Aboriginal Congress / Mpwelarre Health Aboriginal Corporation
+Central Australia,Laramba (Napperby),08 8956 8792,Y,8am to 5pm,NT Health
+Central Australia,Mt Liebig (Amunturrngu),08 8956 8595,Y,8am to 5pm,NT Health
+Central Australia,Mutitjulu,08 8956 2054,N,"Monday, Tuesday, Wednesday and Friday 8:30am to 4pmThursday 8:30am to 12pm",Central Australian Aboriginal Congress / Mpwelarre Health Aboriginal Corporation
+Central Australia,Hermannsburg (Ntaria),08 8956 7433 or 08 8951 6040,Y,8am to 5pm,NT Health
+Central Australia,Ntaria (Hermannsburg) PHC,,N,,Central Australian Aboriginal Congress / Mpwelarre Health Aboriginal Corporation
+Central Australia,Nturiya(Ti-Tree Station),08 8956 9736,Y,8am to 5pm,NT Health
+Central Australia,Nyirippi(Waite Creek),08 8956 8835,Y,8am to 5pm,NT Health
+Central Australia,Pmara Jutunta(6 Mile),08 8956 9736,Y,Visiting service,NT Health
+Central Australia,Titjikala (Maryvale),08 8956 0906,Y,8:30am to 4:30pm,NT Health
+Central Australia,Utju(Areonga),08 8956 7308,N,"Monday, Tuesday, Wednesday and Friday 8:30am to 5pmThursday 8:30am to 12pm",Central Australian Aboriginal Congress / Mpwelarre Health Aboriginal Corporation
+Central Australia,Wallace Rockhole,08 8956 7763,N,Wednesday 9am to 5pm,Central Australian Aboriginal Congress / Mpwelarre Health Aboriginal Corporation
+Central Australia,Watarrka(Kings Canyon),08 8956 7807,N,Monday to Thursday 9am to 4:30pmFriday 9am to 12pm,NT Health
+Central Australia,Willowra,08 8956 8788,N,9am to 5pm,NT Health
+Central Australia,Yuendumu,08 8956 4030,Y,8am to 5pm,NT Health
+Central Australia,Yulara(Uluru),08 8905 9400,N,"Monday, Tuesday 8:30am to 5:00pm Wednesday 9:30am to 5:00pmThursday 8:30am to 12:00pmFriday 8:30am to 5:00pm",Central Australian Aboriginal Congress / Mpwelarre Health Aboriginal Corporation

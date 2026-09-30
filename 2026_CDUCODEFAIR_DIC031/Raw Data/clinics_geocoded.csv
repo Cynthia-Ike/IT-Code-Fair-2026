@@ -1,0 +1,92 @@
+clinic,region,phone,emergency_24_7,hours,operator,lat,lon,geocode,source
+Adelaide River,Top End,08 8976 7027,True,9am to 5pm,NT Health,-13.2378,131.10473,matched to NTG community 'ADELAIDE RIVER',nt.gov.au remote health services
+Batchelor,Top End,08 8976 0011,True,9am to 5pm,NT Health,-13.04629,131.02883,matched to NTG community 'BATCHELOR',nt.gov.au remote health services
+Belyuen,Top End,08 8978 5023,True,9am to 5pm,NT Health,-12.5386,130.6999,matched to NTG community 'BELYUEN',nt.gov.au remote health services
+Gunbalanya (Oenpelli),Top End,08 8979 0178,False,"Monday to Wednesday 8:30am to 12:00pm, 1:00pm to 4:00pmThursday 1:00pm to 4:00pmFriday 8:30am to 12:00pm, 1:00pm to 4:00pm",Red Lily Health Board Aboriginal Corporation,-12.324,133.056,matched to NTG community 'GUNBALANYA',nt.gov.au remote health services
+Jabiru,Top End,08 8979 900,True,9am to 5pm,Red Lily Health Board,-12.6752,132.8337,matched to NTG community 'JABIRU',nt.gov.au remote health services
+Maningrida,Top End,08 8979 5930,True,9am to 5pm,Mala'la Health Service Aboriginal Corporation,-12.05085,134.22363,matched to NTG community 'MANINGRIDA',nt.gov.au remote health services
+Milikapiti,Top End,08 8978 3950,True,9am to 5pm,NT Health,-11.42167,130.67418,matched to NTG community 'MILIKAPITI',nt.gov.au remote health services
+Minjilang,Top End,08 8979 0229,True,9am to 5pm,Red Lily Health Board,-11.1507,132.5786,matched to NTG community 'MINJILANG',nt.gov.au remote health services
+Nauiyu Nambiyu (Daly River),Top End,08 8978 2435,True,9am to 5pm,NT Health,-13.75054,130.68893,matched to NTG community 'NAUIYU' (manual),nt.gov.au remote health services
+Palumpa,Top End,08 8978 2359,True,9am to 5pm,NT Health,-14.35111,129.87889,matched to NTG community 'NGANMARRIYANGA' (manual),nt.gov.au remote health services
+Peppimenarti,Top End,08 8978 1066,True,9am to 4:30pm,NT Health,-14.1503,130.0763,matched to NTG community 'PEPPIMENARTI',nt.gov.au remote health services
+Pirlangimpi,Top End,08 8978 3953,True,9am to 5pm,NT Health,-11.4059,130.4172,matched to NTG community 'PIRLANGIMPI',nt.gov.au remote health services
+Wadeye (Port Keats),Top End,08 8978 2360,True,9am to 5pm,NT Health,-14.2404,129.5205,matched to NTG community 'WADEYE',nt.gov.au remote health services
+Warruwi,Top End,08 8979 0500,True,9am to 5pm,Red Lily Health Board,-11.64896,133.38935,matched to NTG community 'WARRUWI',nt.gov.au remote health services
+Woodyculpaldiya,Top End,08 8978 22435,False,9am to 12pm1pm to 4pm,NT Health,-13.85926,130.00115,matched to NTG community 'WOODYCUPALDIYA',nt.gov.au remote health services
+Wurrumiyanga (Nguiu),Top End,08 8978 3984,True,9am to 5pm,NT Health,-11.75831,130.63747,matched to NTG community 'WURRUMIYANGA',nt.gov.au remote health services
+Alyangula,East Arnhem,08 8987 6255,True,9am to 5pm,NT Health,-13.8506,136.4191,matched to NTG community 'ALYANGULA',nt.gov.au remote health services
+Angurugu,East Arnhem,08 8987 6311,True,9am to 5pm,NT Health,-13.98224,136.46057,matched to NTG community 'ANGURUGU',nt.gov.au remote health services
+Milyakburra (Bickerton Island),East Arnhem,08 8987 7054,True,9am to 5pm,NT Health,-13.78389,136.19583,matched to NTG community 'MILYAKBURRA',nt.gov.au remote health services
+Galiwin'ku (Elcho Island),East Arnhem,08 8970 5800,False,8am to 12pm1pm to 4:30pm,Miwatj Health Aboriginal Corporation,-12.0235,135.5664,matched to NTG community 'GALIWINKU',nt.gov.au remote health services
+Galiwin'ku (Elcho Island)Homelands,East Arnhem,08 8970 5568,False,,Marthakal Homelands Health Service,-12.0235,135.5664,matched to NTG community 'GALIWINKU' (manual),nt.gov.au remote health services
+Gapuwiyak,East Arnhem,08 8987 9150,True,9am to 5pm,Miwatj Health Aboriginal Corporation,-12.50322,135.80587,matched to NTG community 'GAPUWIYAK',nt.gov.au remote health services
+Gunyangara,East Arnhem,08 8987 3800,False,8:30am to 4:30pm,Miwatj Health Aboriginal Corporation,-12.21542,136.70569,matched to NTG community 'GUNYANGARA',nt.gov.au remote health services
+Laynhapuy Homelands,East Arnhem,08 8939 1800,False,,Laynhapuy Aboriginal Community Controlled Health Services,-12.25279,136.89168,matched to NTG community 'YIRRKALA' (manual),nt.gov.au remote health services
+Nhulunbuy Urban,East Arnhem,08 8939 1900,False,8:30am to 4:30pm,Miwatj Health Aboriginal Corporation,-12.187,136.7763,matched to NTG community 'NHULUNBUY' (manual),nt.gov.au remote health services
+Ramingining,East Arnhem,08 8979 7923,False,"Monday, Tuesday, Thursday and Friday 8am to 4:30pmWednesday 8am to 12pm",Miwatj Health Aboriginal Corporation,-12.32779,134.93001,matched to NTG community 'RAMINGINING',nt.gov.au remote health services
+Umbakumba,East Arnhem,08 8987 6772,False,Monday to Thursday 9am to 4pmFriday 9am to 1pm,NT Health,-13.85974,136.81113,matched to NTG community 'UMBAKUMBA',nt.gov.au remote health services
+Yirrkala,East Arnhem,08 8987 2650,False,Monday to Thursday 8am to 4pmFriday 8am to 12pm,Miwatj Health Aboriginal Corporation,-12.25279,136.89168,matched to NTG community 'YIRRKALA',nt.gov.au remote health services
+Yurrwi (Milingimbi),East Arnhem,08 8987 9903,False,"Monday, Tuesday, Thursday and Friday 8am to 4:30pmWednesday 8am 12pm",Miwatj Health Aboriginal Corporation,-12.1036,134.9201,matched to NTG community 'MILINGIMBI',nt.gov.au remote health services
+Amanbidji (Kildurk),Big Rivers,08 9167 8842,False,Tuesday 10am to 2pm,Katherine West Health Board Aboriginal Corporation,-16.42806,129.6189,matched to NTG community 'AMANBIDJI',nt.gov.au remote health services
+Barunga (Bamyili),Big Rivers,08 8975 4501,False,8am to 4:30pm,Sunrise Health Service Aboriginal Corporation,-14.52363,132.86668,matched to NTG community 'BARUNGA',nt.gov.au remote health services
+Binjari,Big Rivers,08 8971 0970,False,8:30am to 4pm,Wurli Wurlinjang Health Service,-14.5502,132.1815,matched to NTG community 'BINJARI',nt.gov.au remote health services
+Borroloola,Big Rivers,08 8975 8757,True,9am to 5pm,NT Health,-16.0676,136.3069,matched to NTG community 'BORROLOOLA',nt.gov.au remote health services
+Bulla,Big Rivers,08 9168 7303,False,"Monday, Wednesday and Friday 10am - 2pm",Katherine West Health Board Aboriginal Corporation,-15.76492,130.03936,matched to NTG community 'BULLA',nt.gov.au remote health services
+Daguragu (Wattie Creek),Big Rivers,08 8975 0785,False,,Katherine West Health Board Aboriginal Corporation,-17.40059,130.80491,matched to NTG community 'DAGURAGU',nt.gov.au remote health services
+Gulin (Bulman),Big Rivers,08 8975 4712,False,8am to 4:30pm,Sunrise Health Service Aboriginal Corporation,-13.66529,134.33335,matched to NTG community 'BULMAN',nt.gov.au remote health services
+Jilkminggan (Duck Creek),Big Rivers,08 8975 4741,False,8am to 4:30pm,Sunrise Health Service Aboriginal Corporation,-14.95306,133.3,matched to NTG community 'JILKMINGGAN',nt.gov.au remote health services
+Kalkaringi (Wave Hill),Big Rivers,08 8975 0785,True,Monday to Thursday 8:30am to 4pmFriday 1pm to 4pm,Katherine West Health Board Aboriginal Corporation,-17.44675,130.83212,matched to NTG community 'KALKARINDJI',nt.gov.au remote health services
+Lajamanu (Hooker Creek),Big Rivers,08 8975 1500,True,Monday to Thursday 8:30am to 4pmFriday 1pm to 4pm,Katherine West Health Board Aboriginal Corporation,-18.33584,130.63834,matched to NTG community 'LAJAMANU',nt.gov.au remote health services
+Lingara via Yarralin,Big Rivers,08 8975 0893,True,Monday to Thursday 8:30am to 4pmFriday 1pm to 4pm,Katherine West Health Board Aboriginal Corporation,-16.48694,130.64333,matched to NTG community 'LINGARA' (manual),nt.gov.au remote health services
+Manyallaluk (Eva Valley),Big Rivers,08 8975 4864,True,9am to 5pm,Sunrise Health Service Aboriginal Corporation,-14.26649,132.82797,matched to NTG community 'MANYALLALUK',nt.gov.au remote health services
+Mataranka,Big Rivers,08 8975 4547,False,8am to 4:30pm,Sunrise Health Service Aboriginal Corporation,-14.92435,133.06795,matched to NTG community 'MATARANKA',nt.gov.au remote health services
+Mialuni (Kildurk),Big Rivers,08 9167 8842,False,Tuesday 10am to 2pm,Katherine West Health Board Aboriginal Corporation,-16.42806,129.6189,matched to NTG community 'AMANBIDJI' (manual),nt.gov.au remote health services
+Minyerri (Hodgeson Downs),Big Rivers,08 8975 9959,False,,Sunrise Health Service Aboriginal Corporation,-15.2216,134.0821,matched to NTG community 'MINYERRI',nt.gov.au remote health services
+Ngukurr (Roper River),Big Rivers,08 8975 4688,False,8am to 4:30pm,Sunrise Health Service Aboriginal Corporation,-14.7317,134.7321,matched to NTG community 'NGUKURR',nt.gov.au remote health services
+Numbulwar,Big Rivers,08 8975 4670,False,"Monday, Tuesday, Wednesday and Friday 9am to 12pmThursday 1pm to 4pm",NT Health,-14.2791,135.7406,matched to NTG community 'NUMBULWAR',nt.gov.au remote health services
+Nitjpurru (Pigeon Hole),Big Rivers,08 8975 0910,False,Tuesday 10:30am to 4pmWednesday 8:30am to 4pmThursday 8:30am - 2pm,Katherine West Health Board Aboriginal Corporation,-16.81412,131.22037,matched to NTG community 'PIGEON HOLE',nt.gov.au remote health services
+Pine Creek,Big Rivers,08 8976 1268,False,Tuesday 9am to 3pm,NT Health,-13.8227,131.8344,matched to NTG community 'PINE CREEK',nt.gov.au remote health services
+Robinson River,Big Rivers,08 8975 9985,False,8am to 5pm,NT Health,-16.75974,136.98057,matched to NTG community 'ROBINSON RIVER',nt.gov.au remote health services
+Timber Creek,Big Rivers,08 8975 0727,True,Monday to Thursday 8:30am to 4pmFriday 1pm to 4pm,Katherine West Health Board Aboriginal Corporation,-15.6625,130.4804,matched to NTG community 'TIMBER CREEK',nt.gov.au remote health services
+Urapunga (Rittarangu),Big Rivers,08 8975 4345,False,,Sunrise Health Service Aboriginal Corporation,-14.71011,134.56526,matched to NTG community 'RITTARANGU',nt.gov.au remote health services
+Wugularr (Beswick),Big Rivers,,False,,Sunrise Health Service Aboriginal Corporation,-14.5548,133.1142,matched to NTG community 'BESWICK',nt.gov.au remote health services
+Yarralin,Big Rivers,08 8975 0893,True,Monday to Thursday 8:30am to 4pm Friday 1pm to 4pm,Katherine West Health Board Aboriginal Corporation,-16.44841,130.88279,matched to NTG community 'YARRALIN',nt.gov.au remote health services
+Aherrenge (Ampilawatja),Barkly,08 8956 9942,False,"Monday, Tuesday, Wednesday and Friday 8:30am to 12:30pm, 2:30pm to 5:30pm Thursday 8:30am to 12:30pm",Ampilatwatja Health Centre Aboriginal Corporation,-21.65664,135.22509,matched to NTG community 'AMPILATWATJA',nt.gov.au remote health services
+Ali Curung,Barkly,08 8964 1954,False,Monday to Wednesday 8am to 5pm,NT Health,-21.00333,134.40694,matched to NTG community 'ALI CURUNG',nt.gov.au remote health services
+Alpurrurulam (Lake Nash),Barkly,07 4748 3111,True,8am to 5pm,NT Health,-20.98417,137.84749,matched to NTG community 'ALPURRURULAM',nt.gov.au remote health services
+Canteen Creek,Barkly,08 8964 1510,True,8am to 5pm,NT Health,-20.64508,135.58678,matched to NTG community 'CANTEEN CREEK',nt.gov.au remote health services
+Elliot,Barkly,08 8969 2060,True,8am to 5pm,NT Health,-17.5527,133.5408,matched to NTG community 'ELLIOTT',nt.gov.au remote health services
+Epenarra (Wutunugurra),Barkly,08 8964 1559,False,Visiting service,NT Health,-20.46156,135.25241,matched to NTG community 'WUTUNUGURRA',nt.gov.au remote health services
+Tara(Neutral Junction),Barkly,08 8956 9789,False,8am to 5pm,NT Health,-21.50658,133.99669,matched to NTG community 'TARA',nt.gov.au remote health services
+Tennant Creek Outstations,Barkly,08 8962 4846,False,8am to 4:30pm,Anyinginyi Health Services Aboriginal Corporation,-19.6478,134.1902,matched to NTG community 'TENNANT CREEK' (manual),nt.gov.au remote health services
+Tennant Creek Urban,Barkly,08 8962 2385,False,"Monday, Tuesday, Wednesday and Friday 8:30am to 11:30am, 1pm to 4pmThursday 8:30am to 11:30am",Anyinginyi Health Services Aboriginal Corporation,-19.6478,134.1902,matched to NTG community 'TENNANT CREEK' (manual),nt.gov.au remote health services
+Urapuntja (Utopia),Barkly,08 8956 9994,True,8am to 5pm,Urapuntja Health Service,-22.08779,134.77476,matched to NTG community 'ARLPARRA' (manual),nt.gov.au remote health services
+Amoonguna,Central Australia,08 8952 9327,False,"Monday, Tuesday, Wednesday and Friday 8am to 4:30pmThursday 8am to 12:30pm",Central Australian Aboriginal Congress / Amoonguna Health Service Board,-23.76632,133.93599,matched to NTG community 'AMOONGUNA',nt.gov.au remote health services
+Aputula(Finke),Central Australia,08 8956 0961,True,8am to 5pm,NT Health,-25.5821,134.5779,matched to NTG community 'FINKE',nt.gov.au remote health services
+Harts Range (Atitjere),Central Australia,08 8956 9778,True,8am to 5pm,NT Health,-22.9843,134.9341,matched to NTG community 'ATITJERE',nt.gov.au remote health services
+Bonya,Central Australia,08 8956 6300,True,Visiting service,NT Health,-22.78458,136.16829,matched to NTG community 'ORRTIPA-THURRA' (manual),nt.gov.au remote health services
+Engawala (Alcoota),Central Australia,08 8956 9944,True,Visiting service,NT Health,-22.80257,134.45547,matched to NTG community 'ENGAWALA',nt.gov.au remote health services
+Haasts Bluff (Ikuntji),Central Australia,08 8956 8472,True,Visiting service,NT Health,-23.44733,131.88129,matched to NTG community 'HAASTS BLUFF',nt.gov.au remote health services
+Imanpa(Mt Ebenezer),Central Australia,08 8956 7484,False,Tuesday 10:30am to 5:00pmWednesday 8:30am to 2:00pm,Central Australian Aboriginal Congress / Mpwelarre Health Aboriginal Corporation,-25.13051,132.56999,matched to NTG community 'IMANPA',nt.gov.au remote health services
+Kaltukatjara (Docker River),Central Australia,08 8960 8600,False,"Monday, Tuesday 8:30am to 5:00pm Wednesday 9:30am to 5:00pmThursday 8:30am to 12:00pmFriday 8:30am to 5:00pm",Central Australian Aboriginal Congress / Mpwelarre Health Aboriginal Corporation,-24.87611,129.07916,matched to NTG community 'KALTUKATJARA',nt.gov.au remote health services
+Kintore,Central Australia,08 8956 8577,False,9am to 12pm2pm to 5pm,Pintupi Homelands Health Service,-23.27591,129.38725,matched to NTG community 'KINTORE',nt.gov.au remote health services
+Ltyentye Apurte(Santa Teresa),Central Australia,08 8956 0911,False,"Monday, Tuesday, Wednesday and Friday 8:30am to 12pm, 1pm to 5pmThursday 8:30am to 12pm, 3:30pm to 4:30pm",Central Australian Aboriginal Congress / Mpwelarre Health Aboriginal Corporation,-24.1307,134.3733,matched to NTG community 'SANTA TERESA',nt.gov.au remote health services
+Laramba (Napperby),Central Australia,08 8956 8792,True,8am to 5pm,NT Health,-22.53297,132.75603,matched to NTG community 'LARAMBA',nt.gov.au remote health services
+Mt Liebig (Amunturrngu),Central Australia,08 8956 8595,True,8am to 5pm,NT Health,-23.26605,131.27319,matched to NTG community 'MOUNT LIEBIG',nt.gov.au remote health services
+Mutitjulu,Central Australia,08 8956 2054,False,"Monday, Tuesday, Wednesday and Friday 8:30am to 4pmThursday 8:30am to 12pm",Central Australian Aboriginal Congress / Mpwelarre Health Aboriginal Corporation,-25.3523,131.0667,matched to NTG community 'MUTITJULU',nt.gov.au remote health services
+Hermannsburg (Ntaria),Central Australia,08 8956 7433 or 08 8951 6040,True,8am to 5pm,NT Health,-23.9427,132.7787,matched to NTG community 'HERMANNSBURG',nt.gov.au remote health services
+Ntaria (Hermannsburg) PHC,Central Australia,,False,,Central Australian Aboriginal Congress / Mpwelarre Health Aboriginal Corporation,-23.9427,132.7787,matched to NTG community 'HERMANNSBURG',nt.gov.au remote health services
+Nturiya(Ti-Tree Station),Central Australia,08 8956 9736,True,8am to 5pm,NT Health,-22.12379,133.26529,matched to NTG community 'NTURIYA',nt.gov.au remote health services
+Nyirippi(Waite Creek),Central Australia,08 8956 8835,True,8am to 5pm,NT Health,-22.6505,130.5532,matched to NTG community 'NYIRRIPI',nt.gov.au remote health services
+Pmara Jutunta(6 Mile),Central Australia,08 8956 9736,True,Visiting service,NT Health,-22.20878,133.43073,matched to NTG community 'PMARA JUTUNTA',nt.gov.au remote health services
+Titjikala (Maryvale),Central Australia,08 8956 0906,True,8:30am to 4:30pm,NT Health,-24.67389,134.07584,matched to NTG community 'TITJIKALA',nt.gov.au remote health services
+Utju(Areonga),Central Australia,08 8956 7308,False,"Monday, Tuesday, Wednesday and Friday 8:30am to 5pmThursday 8:30am to 12pm",Central Australian Aboriginal Congress / Mpwelarre Health Aboriginal Corporation,-24.07361,132.27083,matched to NTG community 'AREYONGA',nt.gov.au remote health services
+Wallace Rockhole,Central Australia,08 8956 7763,False,Wednesday 9am to 5pm,Central Australian Aboriginal Congress / Mpwelarre Health Aboriginal Corporation,-24.1245,133.0863,matched to NTG community 'WALLACE ROCKHOLE',nt.gov.au remote health services
+Watarrka(Kings Canyon),Central Australia,08 8956 7807,False,Monday to Thursday 9am to 4:30pmFriday 9am to 12pm,NT Health,-24.24339,131.51037,GA Healthdirect coordinates,nt.gov.au remote health services
+Willowra,Central Australia,08 8956 8788,False,9am to 5pm,NT Health,-21.24446,132.6139,matched to NTG community 'WILLOWRA',nt.gov.au remote health services
+Yuendumu,Central Australia,08 8956 4030,True,8am to 5pm,NT Health,-22.25389,131.79529,matched to NTG community 'YUENDUMU',nt.gov.au remote health services
+Yulara(Uluru),Central Australia,08 8905 9400,False,"Monday, Tuesday 8:30am to 5:00pm Wednesday 9:30am to 5:00pmThursday 8:30am to 12:00pmFriday 8:30am to 5:00pm",Central Australian Aboriginal Congress / Mpwelarre Health Aboriginal Corporation,-25.24133,130.98766,matched to NTG community 'YULARA',nt.gov.au remote health services
+Papunya Community Health Centre,,,False,,,-23.20439,131.90886,GA Healthdirect coordinates,GA National Healthdirect Health Facilities
+Wilora Community Health Centre,,,False,,,-21.74206,133.72978,GA Healthdirect coordinates,GA National Healthdirect Health Facilities
+Ti Tree Community Health Centre,,,False,,,-22.12908,133.41894,GA Healthdirect coordinates,GA National Healthdirect Health Facilities

@@ -1,0 +1,31 @@
+year,area,category,asr_per_100k,hospitalisations
+2023–24,National,Total PPH,2617,778133
+2023–24,Major cities,Total PPH,2428,507843
+2023–24,Inner regional,Total PPH,2766,157917
+2023–24,Outer regional,Total PPH,2972,73920
+2023–24,Remote and very remote,Total PPH,5325,26957
+2023–24,Northern Territory (PHN),Total PPH,5913,13830
+2023–24,National,Total vaccine-preventable,252,72909
+2023–24,National,Total chronic,1072,343449
+2023–24,National,Total acute,1322,370639
+2023–24,Major cities,Total vaccine-preventable,247,50685
+2023–24,Major cities,Total chronic,986,218202
+2023–24,Major cities,Total acute,1222,244582
+2023–24,Remote and very remote,Total vaccine-preventable,918,4721
+2023–24,Remote and very remote,Total chronic,2031,10372
+2023–24,Remote and very remote,Total acute,2523,12625
+2023–24,Northern Territory (PHN),Total vaccine-preventable,1459,3480
+2023–24,Northern Territory (PHN),Total chronic,2133,4798
+2023–24,Northern Territory (PHN),Total acute,2556,6114
+2017–18,Northern Territory (PHN),Total PPH,5765,12597
+2018–19,Northern Territory (PHN),Total PPH,6153,13412
+2019–20,Northern Territory (PHN),Total PPH,5938,13004
+2020–21,Northern Territory (PHN),Total PPH,5321,11961
+2021–22,Northern Territory (PHN),Total PPH,4794,10955
+2022–23,Northern Territory (PHN),Total PPH,5630,12983
+2017–18,National,Total PPH,2794,747581
+2018–19,National,Total PPH,2735,744695
+2019–20,National,Total PPH,2557,712013
+2020–21,National,Total PPH,2371,671629
+2021–22,National,Total PPH,2308,660071
+2022–23,National,Total PPH,2503,726807
